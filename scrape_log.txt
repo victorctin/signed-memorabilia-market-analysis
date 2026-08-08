@@ -1,0 +1,67 @@
+Loading player index: https://www.icons.com/players/current-stars/a-k.html
+Found 32 players with surnames A-C
+[1/32] Jordi Alba
+  20 products
+[2/32] Trent Alexander-Arnold
+  55 products
+[3/32] Dele Alli
+  100 products
+[4/32] Julián Álvarez
+  44 products
+[5/32] Sofyan Amrabat
+  1 products
+[6/32] Michail Antonio
+  11 products
+[7/32] Antony
+  0 products
+[8/32] Pierre-Emerick Aubameyang
+  3 products
+[9/32] Bradley Barcola
+  9 products
+[10/32] Ross Barkley
+  0 products
+[11/32] Alisson Becker
+  5 products
+[12/32] Jude Bellingham
+  38 products
+[13/32] Karim Benzema
+  28 products
+[14/32] Jarrod Bowen
+  27 products
+[15/32] Connor Bradley
+  6 products
+[16/32] Jarrad Branthwaite
+  0 products
+[17/32] Sergio Busquets
+  54 products
+[18/32] Jack Butland
+  6 products
+[19/32] Dominic Calvert-Lewin
+  4 products
+[20/32] Eduardo Camavinga
+  38 products
+[21/32] Andy Carroll
+  2 products
+[22/32] Casemiro
+  52 products
+[23/32] Santi Cazorla
+  2 products
+[24/32] Nathaniel Chalobah
+  2 products
+[25/32] Federico Chiesa
+  2 products
+[26/32] Eric Choupo-Moting
+  0 products
+[27/32] Nathaniel Clyne
+  2 products
+[28/32] Sebastian Cordova
+  6 products
+[29/32] Diego Costa
+  2 products
+[30/32] Thibaut Courtois
+  6 products
+[31/32] Philippe Coutinho
+  25 products
+[32/32] Aaron Cresswell
+  3 products
+Saved 553 rows to data\raw_products.csv
